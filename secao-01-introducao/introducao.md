@@ -1,4 +1,3 @@
-```markdown
 # Curso de Modelagem de Domínio com UML e Java: Seção Docker
 
 ## 1. Conceitos Básicos de Containers e Docker
