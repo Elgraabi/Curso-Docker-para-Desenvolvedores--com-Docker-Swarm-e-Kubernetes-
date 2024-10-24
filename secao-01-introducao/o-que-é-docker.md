@@ -1,6 +1,3 @@
-Aqui está a explicação sobre o Docker em Markdown:
-
-```markdown
 # O que é Docker?
 
 O **Docker** é uma plataforma de código aberto que permite automatizar o processo de empacotamento, distribuição e execução de aplicações em containers. Ele facilita o desenvolvimento, a distribuição e a execução de software de maneira isolada, garantindo que o código funcione de forma consistente em qualquer ambiente.
