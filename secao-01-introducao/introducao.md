@@ -187,4 +187,3 @@ volumes:
 Esses passos ajudam a consolidar o conhecimento sobre a utilização de Docker no desenvolvimento de aplicações modernas.
 ```
 
-Esse markdown cobre todos os tópicos da seção sobre Docker no curso. Se precisar de mais detalhes ou ajustes, é só avisar!

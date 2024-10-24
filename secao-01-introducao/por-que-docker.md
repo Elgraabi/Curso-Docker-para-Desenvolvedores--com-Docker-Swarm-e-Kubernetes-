@@ -34,5 +34,3 @@ O Docker Hub é um repositório público de imagens Docker onde desenvolvedores 
 "Funciona na minha máquina!" é uma frase comum no desenvolvimento de software. O Docker ajuda a evitar esse tipo de problema, já que os containers garantem que a aplicação será executada da mesma maneira em qualquer ambiente.
 
 ---
-
-Essas razões mostram como o Docker pode otimizar o desenvolvimento, distribuição e execução de aplicações, melhorando a produtividade e eficiência em diversos cenários.

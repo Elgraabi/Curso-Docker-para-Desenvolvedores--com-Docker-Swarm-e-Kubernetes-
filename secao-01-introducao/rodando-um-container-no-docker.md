@@ -83,5 +83,3 @@ Neste guia, você aprendeu a rodar um container básico no Docker usando a image
 
 - Você pode copiar e colar este texto em um arquivo `.md` e salvá-lo, por exemplo, como `docker-rodando-container.md`.
 - Para visualizar o arquivo, você pode usar um editor de Markdown ou um visualizador de texto que suporte a formatação Markdown.
-
-Se você tiver dúvidas ou precisar de mais informações sobre o Docker, sinta-se à vontade para perguntar!

@@ -37,5 +37,3 @@ Aqui está um exemplo básico de como usar Docker para rodar uma aplicação Jav
 Este comando roda um container com o OpenJDK e imprime a versão do Java, mostrando como o Docker facilita a execução de aplicações em ambientes isolados.
 
 ```
-
-Essa explicação cobre o que é Docker, suas principais vantagens e como ele funciona, em um formato Markdown.
